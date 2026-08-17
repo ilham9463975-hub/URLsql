@@ -30,8 +30,9 @@ URLsql is a Python-based tool designed to simplify the process of discovering UR
 1. Clone the repository:
 
     ```bash
- git clone https://github.com/ilham9463975-hub/URLsql
-    ```
+   git clone https://github.com/ilham9463975-hub/URLsql ```
+
+
 
 2. Change into the project directory:
 
