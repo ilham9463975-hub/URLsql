@@ -52,5 +52,5 @@ URLsql is a Python-based tool designed to simplify the process of discovering UR
 To use URLsql, run the following command:
 
 ```bash
-python urlsql.py
+python url_seeker.py
 ```
